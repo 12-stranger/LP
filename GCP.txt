@@ -22,3 +22,5 @@ activate cloud shell -
 >ls
 >cd_main.py
 >python3 main.py
+
+/usr/bin/python /home/niksbirajdar12/python-docs-samples/appengine/standard_python3/hello_world/main.py
